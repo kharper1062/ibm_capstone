@@ -1,4 +1,4 @@
-# ibm_capstpone
+# ibm_capstone
 
 ## Editing the file
 
